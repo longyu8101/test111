@@ -40,8 +40,8 @@ html_title = "结构设计原理  第5版"
 # html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
 
-import recommonmark
-extensions = ['recommonmark']
+# import recommonmark
+# extensions = ['recommonmark']
 from recommonmark.parser import CommonMarkParser
 source_parsers = {
     '.md': CommonMarkParser,
