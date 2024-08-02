@@ -13,4 +13,4 @@ tabulate
 sphinx-tabs
 sphinx-prompt
 recommonmark
-sphinx-rtd-theme
+
