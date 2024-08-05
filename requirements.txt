@@ -1,7 +1,7 @@
 sphinx>=4.0.0
 myst-parser[linkify]
 myst-nb
-sphinx-rtd-theme
+sphinx_rtd_theme
 sphinx-panels
 sphinx-design~=0.0.11
 ablog
