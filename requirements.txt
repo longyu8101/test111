@@ -1,4 +1,4 @@
-sphinx>=4.0.0
+sphinx>=5.0.0
 myst-parser[linkify]
 myst-nb
 sphinx_rtd_theme
